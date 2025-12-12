@@ -28,10 +28,10 @@ I'm working on activating my repo history with personal projects since _a lot of
 
 Some personal notes:
 <ul>
-  <li><b>Polymath Hobbiest</b>: Music (bass/synths), small game development, dev art, fashion, and coffee.</li>
-  <li>I <b>LOVE</b> fighting video games, and have hosted tournaments and compited as well.</li>
+  <li><b>Hobbyist polymath</b>: Music (bass/synths), small game development, dev art, fashion, and coffee.</li>
   <li>Big anime fan</li>
   <li>Big K-Pop fan</li>
+  <li>I <b>LOVE</b> fighting video games, and have hosted tournaments and compited as well.</li>
   <li>I collect art books</li>
   <li>I live with my partner💛 and our <b>two lovely cats</b>: Dolce & Gabbana 💛</li>
 </ul>
